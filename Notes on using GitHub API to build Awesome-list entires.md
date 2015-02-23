@@ -1,8 +1,10 @@
-Some links to the API Docs:
+#Some rough Ideas and links
 
-https://developer.github.com/v3/repos/
-https://developer.github.com/v3/
+##Some links to the API Docs:
 
-Idea: Can projects add a file and then we search github to find all projects with that exact file? kinda like a Unique ID?
+* https://developer.github.com/v3/repos/
+* https://developer.github.com/v3/
 
-Idea: openhub: https://www.openhub.net/p/py-pandas?ref=sample
+*Idea: Can projects add a file and then we search github to find all projects with that exact file? kinda like a Unique ID?*
+
+Idea: openhub Is this useful?: https://www.openhub.net/p/py-pandas?ref=sample
