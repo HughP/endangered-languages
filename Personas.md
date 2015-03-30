@@ -20,3 +20,6 @@ _Who is interested in this list and why? What is the persona type who benefit fr
 
 ##Other projects looking to use the same infrastructure
 * The same infastrucre might be able to be used in other projects
+
+##LRL Communitiy member End Users
+* Looking for solutions for end user problems
