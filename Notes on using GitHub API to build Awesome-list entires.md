@@ -16,6 +16,9 @@ Idea: openhub Is this useful?: https://www.openhub.net/p/py-pandas?ref=sample
 * [Visualizing Github, Part I: Data to Information](https://www.youtube.com/watch?v=VpTPAJ0rvq8)
 * 
 ##Git workshop
-* Hackerschool: Git for Beginners https://www.youtube.com/watch?v=pyPfNOs7vGk
+* Hackerschool: Git for Beginners [1/4] https://www.youtube.com/watch?v=pyPfNOs7vGk
+* Hackerschool: Git for Beginners [2/4] https://www.youtube.com/watch?v=CXWLtRbvTNg
+* Hackerschool: Git for Beginners [3/4] https://www.youtube.com/watch?v=IrDYzo40qNA
+* Hackerschool: Git for Beginners [4/4] https://www.youtube.com/watch?v=FkeO0cgZTKo
 * https://www.youtube.com/watch?v=to6tIdy5rNc
 
