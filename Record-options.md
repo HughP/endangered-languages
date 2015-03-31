@@ -20,6 +20,15 @@ _Expressions are basically Key:Value pairs where the key is the declaration of t
 
 Vocabulary.ontology:value
 
+The abbreviations in the key are as follows:
+
+* olac.
+* doap.
+* dc.
+* foaf.
+
+###Examples
+
 olac.linguistic-subject:lexicgraphy
 olac.language-extension:eng
 olac.language-extension:deu
@@ -28,7 +37,11 @@ doap.
 dc.
 foaf.
 
+###Tools
+http://www.w3.org/RDF/Validator/rdfval
 
+
+##Complete list of options
 
 [olac.linguistic-subject](http://www.language-archives.org/REC/field.html): options: 
 
