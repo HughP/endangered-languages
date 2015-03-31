@@ -41,7 +41,7 @@
  * Name of institution
 * Project development status
   * Closed
-  * Abandond
+  * Abandoned
   * Ongoing
   * Contact the developer
 * Funding source
@@ -50,13 +50,13 @@
 * License
   * LGPL
   * GPL
-  * Appache 2.0
+  * Apache 2.0
   * BSD
-* General lingusitics Task classification
+* General linguistics Task classification
 * Online - Offline technology connectivity expectations
 * Collaboration expectations
-* Projcet open status
- * Code base is created from opensouce, but itself (customizations) is not open
+* Project open status
+ * Code base is created from open souce, but itself (customizations) is not open
  * Code base is open
  * Code and data is open
  * Only data is open
@@ -81,7 +81,7 @@
  * Has a GUI - Designed for general public use
  * Has no GUI - is designed for programers to use
 * Application style
- * Commandline application
+ * Command line application
  * Browser based
  * Application Based 
 

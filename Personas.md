@@ -6,7 +6,7 @@ _Who is interested in this list and why? What is the persona type who benefit fr
 * Find pre-existing modules which can be applied to new use cases
 
 ##Community Devlopers doing Language Development
-* This may include langauge development organizations, or individuals who are "community members" looking to deploy their own solutionss.
+* This may include language development organizations, or individuals who are "community members" looking to deploy their own solutions.
 
 ##Linguists
 * These people are looking to process data.
@@ -19,7 +19,7 @@ _Who is interested in this list and why? What is the persona type who benefit fr
 * Does something like this already exist?
 
 ##Other projects looking to use the same infrastructure
-* The same infastrucre might be able to be used in other projects
+* The same infrastructure might be able to be used in other projects
 
 ##LRL Communitiy member End Users
 * Looking for solutions for end user problems
