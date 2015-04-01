@@ -22,3 +22,7 @@ Idea: openhub Is this useful?: https://www.openhub.net/p/py-pandas?ref=sample
 * Hackerschool: Git for Beginners [4/4] https://www.youtube.com/watch?v=FkeO0cgZTKo
 * https://www.youtube.com/watch?v=to6tIdy5rNc
 
+CI intergration:
+https://travis-ci.org/
+
+##What are all the badges I see in Readme Files?
