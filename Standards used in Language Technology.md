@@ -29,6 +29,7 @@
 * [HTML5](http://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes): via IETF's BCP 47.
 * Text Encoding Initiative [TEI](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-language.html) via IETF's BCP 47.
 
+* There is a host of ISO technology related standards here: http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
 ###Corpora
 ###Lexicons
 * Lexical Markup Framework: ISO specification for representation of machine-readable dictionaries.
