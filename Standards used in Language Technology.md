@@ -11,6 +11,7 @@
 * Language tags as defined by the Internet Engineering Task Force (IETF)
 * BCP 47: [Best Current Practice 47](https://tools.ietf.org/html/bcp47), which includes RFC 5646
 * RFC 5646, which superseded RFC 4646, which superseded [RFC 3066](https://www.ietf.org/rfc/rfc3066.txt). (Therefore all standards which depend on any of these 3 IETF standards now use ISO 639-3.)
+ * Great explination here: http://en.wikipedia.org/wiki/IETF_language_tag
 
 ##Script Identification Standards
 
