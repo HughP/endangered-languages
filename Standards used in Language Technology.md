@@ -36,3 +36,13 @@
 ###Lexicons
 * Lexical Markup Framework: ISO specification for representation of machine-readable dictionaries.
 
+How can we acess how underresourced a language is?
+
+How under resourced is a language?
+* Besacier, Laurent, Viet Bac Le, C. Boitet & Vincent Berment. ASR and Translation for Under-Resourced Languages. Have a paper with charts for describing the computer resources available for a language.
+
+* Lata, Swaran & Somnath Chandra. Development of Linguistic Resources and Tools for providing multilingual Solutions in Indian Languages – A Report on National Initiative. 2851-4. Add things like corpora, and wordnets to the list of appropriate electronic resources. Their paper is couched in the context of sharing how national institutions in India have collaborated.
+
+* Ataa, Fadoua & Siham Boulaknadel. 2012. Toward Computational Processing of Less Resourced Languages: Primarily Experiments for Moroccan Amazigh Language. 
+Also have a plan with types of resources needed in a language to overcome “the under resourced state”.
+
