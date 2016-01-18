@@ -26,3 +26,8 @@ CI intergration:
 https://travis-ci.org/
 
 ##What are all the badges I see in Readme Files?
+
+## It seems that We could make a stastical report
+* Here is an example of a stastical report on US Gov Code: http://gsa.github.io/github-federal-stats/index.html
+* Here is something on Jekel:http://jekyllrb.com/docs/datafiles/
+* Here is how to use Metadata on Github: https://help.github.com/articles/repository-metadata-on-github-pages/
